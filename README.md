@@ -25,5 +25,5 @@ classDiagram
   }
 
   Orgao "1" *-- "N" Atividade
-  Orgao "1" *-- "N" Informe
+  Orgao "1" *-- "1" Informe
 ```
