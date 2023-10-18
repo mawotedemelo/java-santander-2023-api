@@ -12,7 +12,7 @@ classDiagram
   }
   class Atividade {
     - nome: String
-    - description: String
+    - descricao: String
     - objetivo: String
     - responsavel: String
     - participantes: String
@@ -21,7 +21,7 @@ classDiagram
   }
   class Informe {
     - titulo: String
-    - description: String
+    - descricao: String
   }
 
   Orgao "1" *-- "N" Atividade
