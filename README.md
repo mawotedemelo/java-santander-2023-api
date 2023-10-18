@@ -17,7 +17,6 @@ classDiagram
     - responsavel: String
     - participantes: String
     - local: String
-    - quantidade: Int
   }
   class Informe {
     - titulo: String
