@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface OrgaoRepository extends JpaRepository<Orgao, Long> {
+    boolean existsById(Long id);
 }
