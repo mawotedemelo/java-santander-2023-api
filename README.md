@@ -1,4 +1,4 @@
-# projeto-final-java-santander-2023
+# java-santander-2023-api
 Java RESTful API desenvolvido como projeto final do Santander Java BootCamp 2023.
 
 ## Diagrama de classes
